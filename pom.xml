@@ -39,6 +39,7 @@
 
     <!--
         【注意】dependencyManagement:并非导入依赖，而只是管理依赖的版本
+        【注意】dependencyManagement:并非导入依赖，而只是管理依赖的版本
     -->
     <dependencyManagement>
         <!--引入版本管理-->
